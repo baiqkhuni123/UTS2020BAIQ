@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602072627685",
+    "firebase_url": "https://utsbaiq.firebaseio.com",
+    "project_id": "utsbaiq",
+    "storage_bucket": "utsbaiq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602072627685:android:3fa5a0af6a0eec827ad70c",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500066_m_baiq_khuni_haqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602072627685-k2q6q11i8ke2msep41v2qr9b9qisgt48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7DjaM2i26xYfSk7M0MQUnWweLwXBuBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602072627685-k2q6q11i8ke2msep41v2qr9b9qisgt48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
